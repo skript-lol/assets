@@ -5,4 +5,4 @@ assets used on [skript.lol](https://skript.lol)
 #212121 -> #000000
 
 #### old assets
-logo2.png (you can use this if you prefer it)
+lol2.png (you can use this if you prefer it)
