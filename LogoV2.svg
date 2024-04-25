@@ -1,0 +1,33 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <linearGradient id="gradient-0" bx:pinned="true">
+      <title>skriptlolblack</title>
+      <stop offset="0" style="stop-color: rgb(33, 33, 33);"></stop>
+      <stop offset="1" style="stop-color: rgb(0, 0, 0);"></stop>
+    </linearGradient>
+    <linearGradient id="gradient-1" bx:pinned="true">
+      <title>skriptlolpurple</title>
+      <stop offset="0" style="stop-color: rgb(105, 24, 232);"></stop>
+      <stop offset="1" style="stop-color: rgb(130, 27, 220);"></stop>
+    </linearGradient>
+    <linearGradient id="gradient-2" bx:pinned="true">
+      <title>skriptlolblue</title>
+      <stop offset="0" style="stop-color: rgb(47, 24, 232);"></stop>
+      <stop offset="1" style="stop-color: rgb(36, 8, 173);"></stop>
+    </linearGradient>
+    <linearGradient id="gradient-3" bx:pinned="true">
+      <title>skriptlolpink</title>
+      <stop offset="0" style="stop-color: rgb(232, 24, 145);"></stop>
+      <stop offset="1" style="stop-color: rgb(240, 62, 179);"></stop>
+    </linearGradient>
+    <linearGradient id="gradient-4" bx:pinned="true">
+      <title>skriptlolorange</title>
+      <stop offset="0" style="stop-color: rgb(210, 132, 13);"></stop>
+      <stop offset="1" style="stop-color: rgb(145, 86, 0);"></stop>
+    </linearGradient>
+    <style bx:fonts="Poppins">@import url(https://fonts.googleapis.com/css2?family=Poppins%3Aital%2Cwght%400%2C100%3B0%2C200%3B0%2C300%3B0%2C400%3B0%2C500%3B0%2C600%3B0%2C700%3B0%2C800%3B0%2C900%3B1%2C100%3B1%2C200%3B1%2C300%3B1%2C400%3B1%2C500%3B1%2C600%3B1%2C700%3B1%2C800%3B1%2C900&amp;display=swap);</style>
+    <linearGradient id="gradient-4-0" gradientUnits="userSpaceOnUse" x1="256" y1="0" x2="256" y2="512" xlink:href="#gradient-4"></linearGradient>
+  </defs>
+  <rect y="0" width="512" height="512" style="stroke: rgb(0, 0, 0); fill: url(#gradient-4-0); stroke-opacity: 0;"></rect>
+  <text style="fill: rgb(255, 255, 255); font-family: Poppins; font-size: 28px; font-weight: 300; white-space: pre;" transform="matrix(9.506242, 0, 0, 9.963207, -1078.680956, -2117.797214)" x="125" y="248.07">lol</text>
+</svg>
